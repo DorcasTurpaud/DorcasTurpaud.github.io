@@ -1,0 +1,17 @@
+body {
+    background-color: #ADD8E6;
+    width: 100%;
+    margin: 0;
+}
+
+/*poop*/
+#heading {
+    /*margin-left: 10%;
+    margin-right: 10%;*/
+    background-image: url(img/heading.jpg);
+    -webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+    background-color: #fff200;
+}
